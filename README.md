@@ -20,7 +20,6 @@ This project is designed for:
 
 ### 🚀 Demo
 
----
 ### 📊 Results
 The visualization clearly illustrates how increasing model complexity can lead to lower bias but higher variance, showcasing the tradeoff effectively. Users can see how different models behave on training and validation datasets, aiding in model selection.
 
