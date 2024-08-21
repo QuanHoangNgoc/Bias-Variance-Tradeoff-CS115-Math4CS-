@@ -31,6 +31,7 @@ The development process involved several key steps:
 3. **Implementation**: Developed the visualization tool using Python and relevant libraries.
 4. **Testing**: Validated the tool with various datasets to ensure accuracy and usability.
 
+---
 ## ⚙️ Frameworks and Tools Used
 - **Python**: The primary programming language for its versatility and ease of use.
 - **Matplotlib**: Used for creating static, animated, and interactive visualizations in Python.
@@ -43,6 +44,7 @@ Through this project, we learned:
 - How to effectively visualize complex concepts in machine learning.
 - The importance of user feedback in refining educational tools.
 
+---
 ## 🏆 Achievements
 - Developed an interactive visualization tool that simplifies the understanding of the bias-variance tradeoff.
 - Successfully tested the tool with various datasets, receiving positive feedback from users.
